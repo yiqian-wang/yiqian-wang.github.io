@@ -2,7 +2,7 @@
 title: "The Fractional Fourier Transform on Graphs: Sampling and Recovery"
 collection: publications
 permalink: /publication/2018-07-GFRFT_samp
-excerpt: 'Studied the sampling and recovery for the fractional Fourier transform on graphs.'
+excerpt: 'Yiqian Wang, Bingzhao Li'
 date: 2018-07-15
 venue: '2018 14th IEEE International Conference on Signal Processing (ICSP)'
 paperurl: 'https://ieeexplore.ieee.org/document/8652296'

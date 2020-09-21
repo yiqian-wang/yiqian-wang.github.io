@@ -2,7 +2,7 @@
 title: "A Segmentation Based Robust Deep Learning Framework for Multimodal Retinal Image Registration"
 collection: publications
 permalink: /publication/2020-05-Segmentation_retina_registration
-excerpt: 'Proposed a deep learning framework for multimodal retinal image registration.'
+excerpt: 'Yiqian Wang, Junkang Zhang, Cheolhong An, Melina Cavichini, Mahima Jhingan, Manuel J Amador-Patarroyo, Christopher P Long, Dirk-Uwe G Bartsch, William R Freeman, Truong Q Nguyen'
 date: 2020-05-08
 venue: 'ICASSP 2020'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9054077'
