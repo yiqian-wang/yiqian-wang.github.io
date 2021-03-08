@@ -3,7 +3,7 @@ title: "Robust Content-Adaptive Global Registration for Multimodal Retinal Image
 collection: publications
 permalink: /publication/2021-02-Segmentation_retina_registration
 excerpt: 'Yiqian Wang, Junkang Zhang, Melina Cavichini, Dirk-Uwe G Bartsch, William R Freeman, Truong Q Nguyen, Cheolhong An'
-date: 2020-02-18
+date: 2021-02-18
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9054077'
 citation: 
