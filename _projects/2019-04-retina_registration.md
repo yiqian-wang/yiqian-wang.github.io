@@ -4,7 +4,7 @@ excerpt: "<img src='/images/retina_registration_cover.png'>"
 collection: projects
 ---
 
-[Journal Paper](https://ieeexplore.ieee.org/abstract/document/9054077) &#124; [Conference Paper](https://ieeexplore.ieee.org/abstract/document/9054077) &#124; [Slides](https://yiqian-wang.github.io/files/ICASSP_slides_final.pdf)
+[Journal Paper](https://ieeexplore.ieee.org/abstract/document/9357976) &#124; [Conference Paper](https://ieeexplore.ieee.org/abstract/document/9054077) &#124; [Slides](https://yiqian-wang.github.io/files/ICASSP_slides_final.pdf)
 
 {% include image.html url="/images/retina_registration_framework.png" description="Proposed learning-based registration framework" %}
 
