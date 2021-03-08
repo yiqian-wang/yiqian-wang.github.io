@@ -5,7 +5,7 @@ permalink: /publication/2021-02-Segmentation_retina_registration
 excerpt: 'Yiqian Wang, Junkang Zhang, Melina Cavichini, Dirk-Uwe G Bartsch, William R Freeman, Truong Q Nguyen, Cheolhong An'
 date: 2021-02-18
 venue: 'IEEE Transactions on Image Processing'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9054077'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9357976'
 citation: 
 ---
 Multimodal retinal imaging plays an important role in ophthalmology. We propose a content-adaptive multimodal retinal image registration method in this paper that focuses on the globally coarse alignment and includes three weakly supervised neural networks for vessel segmentation, feature detection and description, and outlier rejection. We apply the proposed framework to register color fundus images with infrared reflectance and fluorescein angiography images, and compare it with several conventional and deep learning methods. Our proposed framework demonstrates a significant improvement in robustness and accuracy reflected by a higher success rate and Dice coefficient compared with other methods.
